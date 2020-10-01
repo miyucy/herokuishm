@@ -1,10 +1,10 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    ffi (1.11.3)
-    get_process_mem (0.2.5)
+    ffi (1.13.1)
+    get_process_mem (0.2.7)
       ffi (~> 1.0)
-    rack (2.1.4)
+    rack (2.2.3)
 
 PLATFORMS
   ruby
@@ -14,7 +14,7 @@ DEPENDENCIES
   rack
 
 RUBY VERSION
-   ruby 2.6.5p114
+   ruby 2.7.1p83
 
 BUNDLED WITH
-   2.1.1
+   2.1.4
