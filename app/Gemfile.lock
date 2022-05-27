@@ -4,7 +4,7 @@ GEM
     ffi (1.13.1)
     get_process_mem (0.2.7)
       ffi (~> 1.0)
-    rack (2.2.3)
+    rack (2.2.3.1)
 
 PLATFORMS
   ruby
